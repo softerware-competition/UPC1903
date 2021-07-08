@@ -123,7 +123,8 @@
     margin: 0;
     width: 18px;
     text-align: center;
-    background: #98FB98;
+    background: #1eb450;
+	opacity: 0.9;
     color: white;
     font-size: 12px;
     margin-right: 17px;
@@ -162,7 +163,7 @@
 .popular-school .school_item {
     cursor: pointer;
     float: left;
-    width: 31.8%;
+    width: 300px;
     height: 110px;
     overflow: hidden;
     margin-right: 1.4%;
@@ -228,7 +229,7 @@
 	margin-top: 40px;
 	width: 97%;
 }
-.threepage .layui-elem-field legend >a{
+ .layui-elem-field legend >a{
 	color: #000000;
 	font-weight: 200;
 	font-size: 17px;
@@ -238,7 +239,7 @@
 
 
 .first-major{
-	background-color: #00BFFF;
+	background-color: #1eb450;
 	height: 370px;
 	margin-left: 0px;
 	margin-top: -30px;
@@ -291,3 +292,72 @@
     height: 60px;
 }
 
+.campus_scenery{
+	float: left;
+	background-color: #FFFFFF;
+	margin-top: 20px;
+	padding: 0 2px 2px 0;
+	position: relative;
+	overflow: hidden;
+}
+
+.campus_scenery >a{
+	width: 300px;
+	height: 185x;
+	float: left;
+	text-align: center;
+	position: relative;
+}
+.classicon1 h1{
+	margin-top: 70px;
+	color: #dle973;
+}
+.classicon1 h3{
+	color: #fff5e1;
+}
+.classicon1 {
+	width: 300px;
+	height: 200px;
+	position: absolute;
+	left: 0;
+	top: 0;
+	color: #fff;
+	opacity: 0;
+}
+.classicon1:hover{
+	background: #1eb450;
+	opacity: 0.9;
+	transition: opacity 0.5s;
+	-webkit-transition: opacity 0.5s;
+}
+ .copyright-con {
+    position: relative;
+    margin-bottom: 0px;
+    margin: 0 auto;
+    width: 1200px;
+}
+.bottom{
+	height: auto;
+	padding: 20px 0 29px 0;
+	color: #333;
+	text-align: center;
+	line-height: 26px;
+	font-size: 12px;
+	background: #FFFFFF;
+	margin: auto;
+}
+
+
+ .bottom-part .copy-first {
+    text-align: center;
+    color: #000000;
+    font-size: 14px;
+    margin: 0 auto;
+    margin-top: 30px;
+}
+.bottom-part .copy-first span {
+    padding: 0 10px;
+    color: #000000;
+    font-size: 14px;
+	margin-bottom: 20px;
+}
