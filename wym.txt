@@ -1,5 +1,16 @@
+git clone
+
 git add --all  / git add wym.txt
 
 git commit -m"first commit"
 
 git push origin master  //masters是分支 
+
+
+echo "# test" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/wym1094860/test.git
+git push -u origin main
