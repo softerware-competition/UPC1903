@@ -1,0 +1,5 @@
+git add --all  / git add wym.txt
+
+git commit -m"first commit"
+
+git push origin master  //masters是分支 
