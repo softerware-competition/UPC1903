@@ -1,0 +1,186 @@
+.input-group-btn .btn{
+	background-color: #1eb450;
+	
+}
+
+.search{
+	margin-top: -10px;
+}
+
+.navigation_bar{
+	margin-top: 20px;
+}
+
+.onepage{
+	margin-top: 20px;
+}
+
+.navigation_bar ul.nav >li>a{
+	color: #000000;
+	font-size: 17px;
+	font-weight: 560;
+}
+
+.input-group{
+	margin-top: 10px;
+}
+
+.layui-card{
+	margin-top: 20px;
+}
+
+.layui-card-header{
+	font-size: 18px;
+	font-weight: 550;
+	color: #5FB878;
+}
+
+ .son_list {
+    padding: 15px 0;
+    border-bottom: 1px dashed #EEEEEE;
+    position: relative;
+}
+
+ .son_title {
+    font-size: 16px;
+    color: #000000;
+    margin-bottom: 10px;
+    font-weight: 600;
+    cursor: pointer;
+    transition: all 0.4s;
+}
+ .son_tags {
+    cursor: pointer;
+}
+ .son_list .son_tags span {
+    font-size: 14px;
+    color: #555555;
+    display: inline-block;
+    padding-right: 13px;
+    position: relative;
+    margin-right: 13px;
+    border-right: 1px solid #555555;
+    line-height: 15px;
+}
+
+.son_list .set_school {
+    width: 74px;
+    height: 32px;
+    background: #5FB878;
+    border-radius: 4px;
+    text-align: center;
+    line-height: 32px;
+    font-size: 14px;
+    color: #FFFFFF;
+    position: absolute;
+    right: 0;
+    top: 50%;
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+    cursor: pointer;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-pack: center;
+    justify-content: center;
+    -ms-flex-align: center;
+    align-items: center;
+}
+
+.layui-tab-item h3{
+	margin-top: 25px;
+	font-weight: 530;
+}
+.bottom{
+	height: auto;
+	padding: 20px 0 29px 0;
+	color: #333;
+	text-align: center;
+	line-height: 26px;
+	font-size: 12px;
+	background: #FFFFFF;
+	margin: auto;
+}
+
+
+ .bottom-part .copy-first {
+    text-align: center;
+    color: #000000;
+    font-size: 14px;
+    margin: 0 auto;
+    margin-top: 30px;
+}
+.bottom-part .copy-first span {
+    padding: 0 10px;
+    color: #000000;
+    font-size: 14px;
+	margin-bottom: 20px;
+}
+
+.school-hot {
+    width: 350px;
+	margin-top: 90px;
+	margin-left: 20px;
+}
+
+.school-hot .hot-title {
+    height: 47px;
+    line-height: 47px;
+}
+
+.school-hot .hot-title .hot-title-p {
+    float: left;
+    font-size: 20px;
+    color: #000000;
+    font-weight: bold;
+}
+
+.school-hot .hot_school_content {
+    height: 536px;
+    border: 1px solid #EEEEEE;
+    padding: 20px;
+}
+
+.school-hot .hot_school_content .academy_item_box {
+    margin-bottom: 27px;
+    height: 18px;
+    line-height: 18px;
+}
+
+
+.school-hot .hot_school_content .academy_item_box .academy_item_title {
+    float: left;
+}
+
+.school-hot .hot_school_content .academy_item_box .academy_item_title .academy_num {
+    float: left;
+    margin: 0;
+    width: 18px;
+    text-align: center;
+    background: #1eb450;
+	opacity: 0.9;
+    color: white;
+    font-size: 12px;
+    margin-right: 17px;
+}
+.school-hot .hot_school_content .academy_item_box .academy_item_title .ellipsis {
+    float: left;
+    margin: 0;
+    font-size: 18px;
+    color: #000000;
+    transition: all 0.4s;
+    max-width: 187px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+
+.school-hot .hot_school_content .check_more {
+    width: 98px;
+    height: 39px;
+    border: 1px solid #EEEEEE;
+    line-height: 39px;
+    text-align: center;
+    font-size: 14px;
+    color: #555555;
+    margin: 0 auto;
+}

@@ -1,3 +1,26 @@
+.input-group-btn .btn{
+	background-color: #1eb450;
+	
+}
+
+.search{
+	margin-top: -10px;
+}
+
+.navigation_bar{
+	margin-top: 20px;
+}
+
+.onepage{
+	margin-top: 20px;
+}
+
+.navigation_bar ul.nav >li>a{
+	color: #000000;
+	font-size: 17px;
+	font-weight: 560;
+}
+
 @media screen and (min-width: 1280px){
     .container{
         width:1280px;
@@ -22,3 +45,7 @@ div.head{
     text-decoration: none;
 }
 
+.onepage ul > li {
+	font-size: 20px;
+	font-weight: 500;
+}
